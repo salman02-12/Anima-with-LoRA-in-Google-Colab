@@ -8,6 +8,8 @@ This repository contains an easy-to-use Google Colab notebook for running **Anim
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/Anima-with-LoRA-in-Google-Colab/blob/main/Anima-Turbo-v1.1%20%40CoinNoin.ipynb)
 
+[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/XVAXH9HCD8NAE)
+
 ---
 <img src="./thumbnail.png" width="100%" />
 
